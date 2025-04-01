@@ -1,6 +1,6 @@
 <?php
 
-namespace Nexus\Application;
+namespace Nexus;
 
 use FastRoute\Dispatcher;
 use FastRoute\RouteCollector;
